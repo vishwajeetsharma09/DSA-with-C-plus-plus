@@ -9,7 +9,7 @@ int main()
     {
         if (n % div == 0)
         {
-            cout << "Not Prime" << endl;
+            cout << "Not Prime" << endl; 
             break;
         }
         else
