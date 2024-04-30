@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // To print each element of arrays in right  reverse  order.
+    
     int arr[8] = {2, 4, 6, 8, 10, 7, 9, -11};
     int num = arr[7];
     for (int i = 6; i >= 0; i--)
