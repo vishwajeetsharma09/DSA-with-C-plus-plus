@@ -14,7 +14,7 @@ int main()
         second_number = current_number;
         cout << current_number << "\n";
     }
-    cout << current_number << " ";
+    // cout << current_number << " ";
     // int n;
     // n = 3 > 2 > 1;
     // cout << n;
